@@ -1,1 +1,1 @@
-Check the post in https://nathankrasney.com/
+Check the post in https://nathankrasney.com/posts/next.js-turbopack
